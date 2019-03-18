@@ -1,0 +1,201 @@
+	UI_Obj_Textfield_StartDate
+Pg_Audit_Sample	Clickable Object - Button, Link, Tab Header	//input[@name='calStartDate' and @data-ref='inputEl']
+ 	UI_Obj_Textfield_LOB
+Pg_Audit_Sample	Text Field	//input[@name='dropdownList1' and @data-ref='inputEl']
+ 	UI_Obj_Button_AuditSample
+Pg_Audit_Sample	Clickable Object - Button, Link, Tab Header	//span[@data-ref="textEl" and contains(text(),'Generate Vendor Master Audit Sample')]
+ 	UI_Obj_Button_APSolution
+Pg_Audit_Sample	Clickable Object - Button, Link, Tab Header	//span[@data-ref="btnInnerEl" and contains(text(),'AP Solution')]
+ 	UI_Obj_Button_CompleteResolution
+Pg_VMResolution	Clickable Object - Button, Link, Tab Header	//span[@data-ref="btnInnerEl" and contains(text(),'Complete Resolution')]
+ 	UI_Obj_VMid
+Pg_VendorMaster	Clickable Object - Button, Link, Tab Header	//a[contains(text(),'VA-20180404-000026')]
+ 	UI_Obj_Button_Scan_OK
+Pg_VendorMaster	Clickable Object - Button, Link, Tab Header	//span[@id='button-1005-btnInnerEl' and contains(text(),'OK')]
+ 	UI_Obj_Textfield_AttachDoc
+Pg_VendorMaster	Clickable Object - Button, Link, Tab Header	//span[contains(text(),'Attach Document')]
+ 	UI_Obj_Textfield_SelectDoc
+Pg_VendorMaster	Clickable Object - Button, Link, Tab Header	//input[@name='fuSelectDocument']
+ 	UI_Obj_Textfield_WebEnquiryNumber
+Pg_VendorMaster	Text Field	//input[@name='ONLINE_WEB_INQUIRY_SEARCH_NO_output' and @tabindex='55']
+ 	UI_Obj_Checkbox_WebEnquiry
+Pg_VendorMaster	Clickable Object - Button, Link, Tab Header	//input[@name='ONLINE_WEB_INQUIRY_SEARCH_FLAG_output' and @type='checkbox']
+ 	UI_Obj_Textfield_Comments
+Pg_VendorMaster	Text Field	//textarea[@name='PASSED_COMMENTS_output' and @tabindex='45']
+ 	UI_Obj_Textfield_UrgencyValue
+Pg_VendorMaster	Text Field	//input[@name='URGENCY_VALUE_output' and @tabindex='40']
+ 	UI_Obj_Textfield_PostalZipCode
+Pg_VendorMaster	Text Field	//input[@name='PASSED_POSTAL_ZIPCODE_output' and @tabindex='35']
+ 	UI_Obj_Checkbox_OneTimeVendor
+Pg_VendorMaster	Clickable Object - Button, Link, Tab Header	//input[@name='PASSED_ONE_TIME_VENDOR_output' and @type='checkbox']
+ 	UI_Obj_Textfield_VendorName
+Pg_VendorMaster	Text Field	//input[@name='PASSED_VENDOR_NAME_output' and @tabindex='25']
+ 	UI_Obj_Textfield_VendorNumber
+Pg_VendorMaster	Text Field	//input[@name='PASSED_VENDOR_NUMBER_output' and @tabindex='20']
+ 	UI_Obj_Textfield_ResolutionStatus
+Pg_VendorMaster	Clickable Object - Button, Link, Tab Header	//input[@name='ddlVendorMasterTask' and @tabindex='15']
+ 	UI_Obj_Textfield_SLAEndDate
+Pg_AP_ErrorMsgs	Text Field	//input[@name='txtSLAEndDate' and @tabindex='180']
+ 	UI_Obj_Textfield_UrgencyValue
+Pg_AP_ErrorMsgs	Text Field	//input[@name='txtUrgencyValue' and @tabindex='0']
+ 	UI_Obj_Textfield_WorkPriority
+Pg_AP_ErrorMsgs	Text Field	//input[@name='txtWorkPriority']
+ 	UI_Obj_Button_JobStatus
+Pg_AP_ErrorMsgs	Clickable Object - Button, Link, Tab Header	//span[@id='_E08FDF4A57D841AAB239B7A0359B8889-btnInnerEl' and @data-ref='btnInnerEl']
+ 	UI_Obj_button_CraeteDate_sort
+Pg_Workqueue	Clickable Object - Button, Link, Tab Header	(//span[contains(text(),'Create Date')]/../../../../..)[3]
+ 	UI_Obj_Button_AttachDoc
+Pg_Workqueue	Clickable Object - Button, Link, Tab Header	//span[contains(text(),'Attach Document')]/..
+ 	UI_Obj_Text_DocName
+Pg_Workqueue	Text Field	//input[@name='txtDocumentName']
+ 	UI_Obj_Button_Browse
+Pg_Workqueue	Clickable Object - Button, Link, Tab Header	//span[contains(text(),'Browse')]
+ 	UI_Obj_Textbox_WISearchComments
+Pg_Workqueue	Text Field	//textarea[@name='VENDOR_MASTER_COMMENTS_output']
+ 	UI_Obj_Textbox_WISearchNumber
+Pg_Workqueue	Text Field	//input[@name='ONLINE_WEB_INQUIRY_SEARCH_NO_output']
+ 	UI_Obj_checkbox_WebInquiry
+Pg_Workqueue	Clickable Object - Button, Link, Tab Header	//input[@name='ONLINE_WEB_INQUIRY_SEARCH_FLAG_output']
+ 	UI_Obj_VendorComments
+Pg_VMResolution	Text Field	//textarea[@name='PASSED_COMMENTS_output']
+ 	UI_Obj_Textbox_postalCode
+Pg_Workqueue	Text Field	//input[@name='PASSED_POSTAL_ZIPCODE_output']
+ 	UI_Obj_OTV_Checkbox
+Pg_Workqueue	Clickable Object - Button, Link, Tab Header	//input[@name='PASSED_ONE_TIME_VENDOR_output']
+ 	UI_Obj_Button_Rescan_Yes
+Pg_AP_ErrorMsgs	Clickable Object - Button, Link, Tab Header	//span[@id='button-1006-btnInnerEl' and contains(text(),'Yes')]
+ 	UI_Obj_Button_Rescan
+Pg_AP_ErrorMsgs	Clickable Object - Button, Link, Tab Header	//span[@data-ref='btnInnerEl' and contains(text(),'Rescan')]
+ 	UI_Obj_textfield_ChequeText
+Pg_AP_ErrorMsgs	Text Field	//input[@name='txtChequeText' and @tabindex='570']
+ 	UI_Obj_Textfield_LongText
+Pg_AP_ErrorMsgs	Text Field	//input[@name='txtLongText' and @tabindex='560']
+ 	UI_Obj_Textfield_Assignment
+Pg_AP_ErrorMsgs	Text Field	//input[@name='txtAssignment' and @tabindex='550']
+ 	UI_Obj_Textfield_PaymentMethodSuppliment
+Pg_AP_ErrorMsgs	Text Field	//input[@name='ddlPaymentMethodSupplement' and @tabindex='540']
+ 	UI_Obj_Textfield_PaymentTerms
+Pg_AP_ErrorMsgs	Text Field	//input[@name='PaymentTerms' and @tabindex='-1']
+ 	UI_Obj_Textfield_PaymentBlock
+Pg_AP_ErrorMsgs	Text Field	//input[@name='ddlPaymentBlock' and @tabindex='520']
+ 	UI_Obj_Textfield_PaymentMethod
+Pg_AP_ErrorMsgs	Text Field	//input[@name='ddlPaymentMethod' and @tabindex='510']
+ 	UI_Obj_Textfield_VendorLine_PostingKey
+Pg_AP_ErrorMsgs	Text Field	(//input[@name='ddlPostingKey' or @name='txtPostingKey'])[1]
+ 	UI_Obj_VendorName
+Pg_VMResolution	Text Field	//input[@name='PASSED_VENDOR_NAME_output']
+ 	UI_Obj_VendorNum
+Pg_VMResolution	Text Field	//input[@name='PASSED_VENDOR_NUMBER_output']
+ 	UI_Obj_ResolutionStatus
+Pg_VMResolution	Text Field	//input[@name='ddlVendorMasterTask']
+ 	UI_Obj_VMWork_ID
+Pg_Workqueue	Clickable Object - Button, Link, Tab Header	//*[contains(text(),'$$1')]/../../../td[6]
+ 	UI_Obj_MandatoryFields_ErrorMsg
+Pg_AP_ErrorMsgs	Label	//div[@id='Invoice_Validation-lblErrorMsg' and @role='textbox']
+ 	UI_Obj_button_VendorMastercancel
+Pg_Workqueue	Clickable Object - Button, Link, Tab Header	//a[@name='btnCancel']/span/span/span[contains(text(),'Cancel')]
+ 	UI_Obj_Text_VendorNum
+Pg_Workqueue	Text Field	//input[@name='txtResolutionVendorNumber' and @tabindex='0']
+ 	UI_Obj_Text_VendorName
+Pg_Workqueue	Text Field	//input[@name='txtResolutionVendorName' and @tabindex='0']
+ 	UI_Obj_Button_RouteSelectedtasks
+Pg_Workqueue	Clickable Object - Button, Link, Tab Header	//span[@data-ref='btnInnerEl' and contains(text(),'Route All Selected Tasks')]/..
+ 	UI_Obj_Button_RouteAllSelectedTasks
+Pg_Workqueue	Clickable Object - Button, Link, Tab Header	//span[@data-ref='btnInnerEl' and contains(text(),'Route All Selected Task')]
+ 	UI_Obj_VendorSearch_select
+Pg_Vendor	Clickable Object - Button, Link, Tab Header	//span[contains(text(),'Select') and @data-ref='btnInnerEl']
+ 	UI_Obj_Vendor_search_result
+Pg_Vendor	Clickable Object - Button, Link, Tab Header	//div[@id='grdResource_SupplierID_0']
+ 	UI_Obj_Button_VendorSearch
+Pg_Vendor	Clickable Object - Button, Link, Tab Header	//span[@data-ref='btnInnerEl' and contains(text(),'Search')]
+ 	UI_Obj_Other_AP_ClickOutside
+Pg_Workqueue	Other	//span[contains(text(),'View Individual Tasks')]
+ 	UI_Obj_Textfield_AP_RouteTaskTo
+Pg_Workqueue	Text Field	//input[@name='ddlResourceToRouteTo']
+ 	UI_Obj_Textfield_AP_RouteTaskfrom
+Pg_Workqueue	Text Field	//input[@name='ddlViewIndividualTasks']
+ 	UI_Obj_Button_AP_Processors
+Pg_Workqueue	Clickable Object - Button, Link, Tab Header	//a[contains(@data-qtip,'Click here to view Individual AP Processors tasks ...')]/span/span
+ 	UI_Obj_Link_ReLogin
+Pg_Kofax	Clickable Object - Button, Link, Tab Header	//a[contains(text(),'Click here to Relogin')]
+ 	Pg_Kofax_LogOut
+Pg_Kofax	Clickable Object - Button, Link, Tab Header	//a[contains(text(),'Logout')]
+ 	UI_Obj_Button_KofaxTotalAgility_OK
+Pg_Kofax	Clickable Object - Button, Link, Tab Header	//span[contains(text(),'OK')]
+ 	UI_Obj_WorkBasket_taskID
+Pg_Workqueue	Label	(//div[@class='x-grid-item-container'])[$$2]/table[$$1]/tbody/tr/td[6]/div/div
+ 	UI_Obj_Button_AllocateTask1
+Pg_Workqueue	Clickable Object - Button, Link, Tab Header	//a[contains(@data-qtip,'Click here to view all Tasks ...')]/span/span/span[2]/div
+ 	UI_Obj_button_VendorMastersave
+Pg_Workqueue	Clickable Object - Button, Link, Tab Header	//a[@name='btnCancel']/span/span/span[contains(text(),'Save')]
+ 	UI_Obj_text_VendorMasterComments
+Pg_Workqueue	Text Field	//textarea[@name='txtResolutionComments' and @tabindex='20']
+ 	UI_Obj_dropdown_SelectVendorMaster
+Pg_Workqueue	Drop Down List - Select One	//input[@name='ddlVendorMasterTask']
+ 	UI_Obj_Button_CreateVendor
+Pg_Workqueue	Clickable Object - Button, Link, Tab Header	//span[contains(text(),'Create Vendor Master')]
+ 	UI_Obj_Button_ReRoute
+Pg_Workqueue	Clickable Object - Button, Link, Tab Header	//span[contains(text(),'Re Route') and @data-ref='btnInnerEl']
+ 	UI_Obj_Textfield_POBox
+Pg_Vendor	Text Field	//input[@name='txtPOBox']
+ 	UI_Obj_Textfield_SearchVendorName2
+Pg_Vendor	Text Field	//input[@name='txtVendorName2' and @tabindex='0']
+ 	UI_Obj_Textfield_SearchVendorPostalZip
+Pg_Vendor	Text Field	//input[@name='txtPostalCode' and @tabindex='0']
+ 	UI_Obj_Textfield_SearchVendorNum
+Pg_Vendor	Text Field	//input[@name='txtVendorNo']
+ 	UI_Obj_KTA_Process_Name
+Pg_Kofax	Text Field	//input[@name='ddlProcessName']
+ 	UI_Obj_KTA_Batch_Class
+Pg_Kofax	Text Field	//input[@name='ddlBatchClass']
+ 	UI_Obj_button_update
+Pg_Vendor	Clickable Object - Button, Link, Tab Header	//a[@name='btnReverseWorkTask' and @data-qtip='Cick here to Add or Update GL Line Item']
+ 	UI_Obj_Textfield_longText
+Pg_Vendor	Text Field	//input[@name='txtGLLongText']
+ 	UI_Obj_Textfield_WBS
+Pg_Vendor	Text Field	//input[@name='txtWBS']
+ 	UI_Obj_Textfield_assignment
+Pg_Vendor	Text Field	//input[@name='txtGLAssignment']
+ 	UI_Obj_Textfield_ordNo
+Pg_Vendor	Text Field	//input[@name='txtOrderNumber']
+ 	UI_Obj_Textfield_coCode
+Pg_Vendor	Text Field	//input[@name='ddlNewCoCode']
+ 	UI_Obj_Textfield_DHR
+Pg_Vendor	Text Field	//input[@name='txtDHRText']
+ 	UI_Obj_Textfield_taxjur
+Pg_Vendor	Text Field	//input[@name='ddlTaxJur']
+ 	UI_Obj_Textfield_transit
+Pg_Vendor	Text Field	//input[@name='txtTransit']
+ 	UI_Obj_Textfield_taxCode
+Pg_Vendor	Text Field	//input[@name='txtTaxCodeEntered']
+ 	UI_Obj_Textfield_textamt
+Pg_Vendor	Text Field	//input[@name='txtAmount']
+ 	UI_Obj_Textfield_textAcc
+Pg_Vendor	Text Field	//input[@name='txtAccount']
+ 	UI_Obj_Textfield_pstky
+Pg_Vendor	Text Field	//input[@name='ddlPstKy']
+ 	UI_Obj_upload_doc_Yes
+Pg_Workqueue	Clickable Object - Button, Link, Tab Header	//span[contains(text(),'Yes')]
+ 	UI_Obj_OTV_text
+Pg_Vendor	Label	(//span[contains(text(),'One Time Vendor')])[1]
+ 	UI_Obj_Textfield_Region
+Pg_Vendor	Text Field	//input[@name='ddlRegion']
+ 	UI_Obj_Textfield_Language
+Pg_Vendor	Text Field	//input[@name='ddlLanguage']
+ 	UI_Obj_Textfield_Country
+Pg_Vendor	Text Field	//input[@name='ddlCountry']
+ 	UI_Obj_Textfield_POBoxPostalCode
+Pg_Vendor	Text Field	//input[@name='txtPOBoxPostalCode']
+ 	UI_Obj_Textfield_VendorName4
+Pg_Vendor	Text Field	//input[@name='txtVendorName4']
+ 	UI_Obj_Textfield_VendorName3
+Pg_Vendor	Text Field	//input[@name='txtVendorName3']
+ 	UI_Obj_Textfield_VendorName2
+Pg_Vendor	Text Field	//input[@name='txtVendorName2']
+ 	UI_Obj_Textfield_VendorID
+Pg_Vendor	Text Field	//input[@name='SupplierID' or @name='txtSupplierID']
+ 	UI_Obj_Checkbox_OneTimeVendor
+Pg_Vendor	Other	//input[@type='checkbox' and @name='chkOneTimeVendor']
+ 	UI_Obj_Textfield_VendorPostalCodeReadOnly
+Pg_Vendor	Text Field	//input[@name='SupplierZip']
+
